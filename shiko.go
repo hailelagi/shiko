@@ -1,5 +1,6 @@
-package shiko
+package main
 
+/*
 import "fmt"
 
 func main() {
@@ -9,3 +10,4 @@ func main() {
 func Board() string {
 	return "Super awesome chess engine :)"
 }
+*/
